@@ -20,3 +20,6 @@ Members of the group:
 - اسم المشروع : نبتة
 - فكرة المشروع:
 🌱 نبتة — تربية الجيل 
+
+لينك ملفات المشروع
+https://drive.google.com/drive/folders/1ObKSB2alpRxmvJDQIq3A030Sot-Y7Bpw
