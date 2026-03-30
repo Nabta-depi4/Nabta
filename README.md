@@ -26,5 +26,7 @@ Nabta is a parenting content platform specializing in raising the next generatio
 - فكرة المشروع:
 🌱 نبتة — تربية الجيل 
 
+**Instructor:** Youstina Hany Helmy
+
 لينك ملفات المشروع
 https://drive.google.com/drive/u/1/folders/1gj_L2x6cfPlChgLwN69lNDQ5lfoMe56F
