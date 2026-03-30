@@ -1,7 +1,10 @@
 # Nabta
-Nabta is a parenting content platform specializing in raising the next generation in the age of social media and AI, equipping families with the awareness and tools to navigate the digital world and make the most of it.
+**Project Name:** Nabta
 
-Members of the group: 
+
+**Project Idea:**Nabta is a parenting content platform specializing in raising the next generation in the age of social media and AI, equipping families with the awareness and tools to navigate the digital world and make the most of it. It also supports mothers by providing practical advice on how to deal with their children and manage negative behaviors effectively.
+
+**Team Members:**
 
 1.AmiraEmad Abdelaziem (team leader)أميرة عماد عبد العظيم 
 
