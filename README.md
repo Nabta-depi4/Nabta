@@ -20,9 +20,14 @@
 
 6.Osama Ghandour Geris أسامة غندور جريس
 أسامة غندور جريس
-- اسم المشروع : نبتة
-- فكرة المشروع:
-🌱 نبتة — تربية الجيل 
+   
 
-لينك ملفات المشروع
+
+**Instructor**
+  Youstina Hany Helmy
+
+  
+**You can find the full project files here**
+
+
 https://drive.google.com/drive/u/1/folders/1gj_L2x6cfPlChgLwN69lNDQ5lfoMe56F
